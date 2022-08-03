@@ -1,0 +1,21 @@
+// const filterTodo = (e) => {
+//   todoList.childNodes.forEach((childNode) => {
+//     switch (e.target.options.selectedIndex) {
+//       case 0:
+//         childNode.classList.remove('hidden');
+//         return;
+//       case 1:
+//         childNode.classList.contains('completed')
+//           ? childNode.classList.remove('hidden')
+//           : childNode.classList.add('hidden');
+//         return;
+//       case 2:
+//         childNode.classList.contains('completed')
+//           ? childNode.classList.add('hidden')
+//           : childNode.classList.remove('hidden');
+//         return;
+//       default:
+//         break;
+//     }
+//   });
+// };
