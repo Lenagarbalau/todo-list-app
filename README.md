@@ -1,2 +1,2 @@
-# todo-list-app
-Simple ToDo list.
+# Hey!
+## I created simple and easy Todo-list app for basis use.
